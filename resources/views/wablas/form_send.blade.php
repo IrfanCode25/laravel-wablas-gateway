@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="jumbotron text-center">
-        <p>Cara Kirim Notifikasi Whatsapp Pada Laravel Dengan Wablas Whatsapp Gateway</p>
+        <p>Send Notifikasi Whatsapp Pada Laravel Dengan Wablas Whatsapp Gateway</p>
     </div>
     <div class="container">
         <div class="row">
